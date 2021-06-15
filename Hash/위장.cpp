@@ -27,8 +27,6 @@ int solution(vector<vector<string>> clothes)
 	//	cout << "key : " << elem.first << " value : " << elem.second << endl;
 	//}
 
-	
-
 	return answer - 1; // -1은 아무것도 선택하지않는 경우를 뺀것
 }
 
